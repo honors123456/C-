@@ -7,3 +7,6 @@ windows编程 linux编程
 win32
 MFC QT 
 Cmake git
+
+STL
+设计模式
